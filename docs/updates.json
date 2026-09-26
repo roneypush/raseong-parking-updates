@@ -10,7 +10,7 @@
   "windows": {
     "versionCode": 27,
     "versionName": "27",
-    "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/pc-v27/Raseong_Parking_v27.exe.exe",
+    "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/pc-v27/Raseong_Parking_v27.exe",
     "sha256": "e86a04ee7a945b4c8413bd89081df96238562f0c0cf07a1377ef3d4f77db13da",
     "notes": "PC v27 자동 업데이트 테스트"
   }
