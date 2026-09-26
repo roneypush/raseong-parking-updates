@@ -8,11 +8,11 @@
     "notes": "v25 자동 업데이트 설치 테스트"
   },
   "windows": {
-    "versionCode": 23,
-    "versionName": "23",
-    "url": "",
-    "sha256": "",
-    "notes": "PC EXE 검증 후 별도 게시 예정"
+    "versionCode": 26,
+    "versionName": "26",
+    "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/pc-v26/Raseong_Parking_v26.exe",
+    "sha256": "bcb1e02b086b10cfd48af9d6619e4576f90c1123151c7478d5e2d970ab841ac3",
+    "notes": "PC v26 자동 업데이트 기준 버전"
   }
 }
 
