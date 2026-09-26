@@ -1,0 +1,16 @@
+{
+  "android": {
+    "versionCode": 23,
+    "versionName": "23",
+    "url": "",
+    "sha256": "",
+    "notes": "아직 정식 배포된 새 버전이 없습니다."
+  },
+  "windows": {
+    "versionCode": 23,
+    "versionName": "23",
+    "url": "",
+    "sha256": "",
+    "notes": "아직 정식 배포된 새 버전이 없습니다."
+  }
+}
