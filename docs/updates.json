@@ -1,10 +1,11 @@
+
 {
   "android": {
-    "versionCode": 24,
-    "versionName": "6.0-update",
-    "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/v24/app-parking.apk",
-    "sha256": "7e53095281bc438e0a872d3326d00dbd2c606085f2df138840e9da7655660bfa",
-    "notes": "라성마트 차량등록 Android v24 기준 버전"
+    "versionCode": 25,
+    "versionName": "6.1-update-test",
+    "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/v25/app-parking-v25.apk",
+    "sha256": "20932c7d86d373ba86e6b6f40ea679eb86ebb75d96e8af2b47d1941e8c6c07ad",
+    "notes": "v25 자동 업데이트 설치 테스트"
   },
   "windows": {
     "versionCode": 23,
@@ -14,4 +15,5 @@
     "notes": "PC EXE 검증 후 별도 게시 예정"
   }
 }
+
 
