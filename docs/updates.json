@@ -8,12 +8,13 @@
     "notes": "v25 자동 업데이트 설치 테스트"
   },
   "windows": {
-    "versionCode": 26,
-    "versionName": "26",
-    "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/pc-v26/Raseong_Parking_v26.exe",
-    "sha256": "bcb1e02b086b10cfd48af9d6619e4576f90c1123151c7478d5e2d970ab841ac3",
-    "notes": "PC v26 자동 업데이트 기준 버전"
+    "versionCode": 27,
+    "versionName": "27",
+    "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/pc-v27/Raseong_Parking_v27.exe.exe",
+    "sha256": "e86a04ee7a945b4c8413bd89081df96238562f0c0cf07a1377ef3d4f77db13da",
+    "notes": "PC v27 자동 업데이트 테스트"
   }
 }
+
 
 
