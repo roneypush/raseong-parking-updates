@@ -8,11 +8,11 @@
     "notes": "v25 자동 업데이트 설치 테스트"
   },
   "windows": {
-    "versionCode": 28,
-    "versionName": "28",
-    "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/pc-v28/Raseong_Parking_v28.exe",
-    "sha256": "18ba6760092677c37d8896f867271d16b15a66432a4773b2a9daf51328c0dc6f",
-    "notes": "PC v28 고급 UI 개편 및 버튼 배치 개선"
+    "versionCode": 28.1,
+    "versionName": "28.1",
+    "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/pc-v28.1/Raseong_Parking_v28.1.exe",
+    "sha256": "77a77a392ee6d7d6b94757bfc9ececa31a6976b5738d7dd3f023943895ce591c",
+    "notes": "PC v28.1 고급 UI 개편 및 버튼 배치 개선"
   }
 }
 
