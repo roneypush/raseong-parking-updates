@@ -15,11 +15,11 @@
     "notes": "PC v31 고급 UI 개편 및 버튼 배치 개선"
   },
   "postit_windows": {
-  "versionCode": 79,
-  "versionName": "7.9",
-  "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/postit-v79/Raseong_Postit.exe",
-  "sha256": "79f96ff25574fee1b7cee1bc5f84939c1a145adb8e83dc14918996c637d7bd48",
-  "notes": "V79 단일 EXE 운영판 - Updater 내장"
+  "versionCode": 80,
+  "versionName": "8.0",
+  "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/postit-v80/Raseong_Postit.exe",
+  "sha256": "5de60bf199374832716d2a5b6c8b58ad2e59471344a8aa5eb5422b8c591123fb",
+  "notes": "V80 UI 개선 및 단일 EXE 자동업데이트 운영판"
  }
 }
 
