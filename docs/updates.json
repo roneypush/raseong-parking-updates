@@ -13,8 +13,16 @@
     "url": "https://github.com/roneypush/raseong-parking-updates/releases/download/pc-v31/Raseong_Parking_v31.exe",
     "sha256": "6bb276dc1a797c22a3e30d0556fe8f2cd67bb62d1f577826ca554b0e5180c9b5",
     "notes": "PC v31 고급 UI 개편 및 버튼 배치 개선"
+  },
+  "postit_windows": {
+    "versionCode": 76,
+    "versionName": "7.6",
+    "url": "",
+    "sha256": "",
+    "notes": "라성마트 포스트잇 PC V76"
   }
 }
+
 
 
 
